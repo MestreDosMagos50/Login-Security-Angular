@@ -11,7 +11,7 @@ describe('PrimaryInputComponent', () => {
       imports: [PrimaryInputComponent]
     })
     .compileComponents();
-    
+
     fixture = TestBed.createComponent(PrimaryInputComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();

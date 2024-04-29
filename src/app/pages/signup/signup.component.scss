@@ -4,13 +4,13 @@ form {
     width: 100%;
     display: flex;
     flex-direction: column;
-    gap: 24px;
-    margin-bottom: 34px;
+    margin-bottom: 340px;
+    margin-bottom: 30px;
 
     span {
         font-size: 14px;
         text-decoration: underline;
-        color: $secudanry-color;
+        color: $secondary-color;
         text-align: end;
     }
 }
